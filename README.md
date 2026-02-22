@@ -1,4 +1,5 @@
 ZTH Core — Reference Implementation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18726461.svg)](https://doi.org/10.5281/zenodo.18726461)
 
 ZTH Core is the reference implementation of the structural engine introduced in the ZTH preprint series (Parts I–V).
 
@@ -61,6 +62,11 @@ Requirements
 Run locally
 
 shiny::runApp()
+
+Citation
+
+- ZTH Core (all versions): https://doi.org/10.5281/zenodo.18726461  
+- ZTH Core v1.0.1: https://doi.org/10.5281/zenodo.18726462
 
 License
 
